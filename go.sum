@@ -1,0 +1,4 @@
+github.com/alexbrainman/printer v0.0.0-20181008173622-345afe414dee h1:YVGQCpzp1Z9/P/9c1uGJBLomn2FEvlPWAz2fJt7G08E=
+github.com/alexbrainman/printer v0.0.0-20181008173622-345afe414dee/go.mod h1:dAASlhAhrwKRSWS7EDsHtphKGj9eN5uCU4XiaAyacG0=
+github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
+github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
